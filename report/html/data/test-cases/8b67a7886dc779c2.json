@@ -1,0 +1,91 @@
+{
+  "uid" : "8b67a7886dc779c2",
+  "name" : "TestLogin.test_login[ itheima01 -123456-itheima01-True]",
+  "fullName" : "test_login.TestLogin.test_login[ itheima01 -123456-itheima01-True]",
+  "historyId" : "792a55f85e02db614206451e4fea06ce",
+  "time" : {
+    "start" : 1568537271210,
+    "stop" : 1568537299200,
+    "duration" : 27990
+  },
+  "description" : "登录测试方法",
+  "descriptionHtml" : "<p>登录测试方法</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录测试方法",
+      "time" : {
+        "start" : 1568537271211,
+        "stop" : 1568537299200,
+        "duration" : 27989
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6235ed0f87735d02",
+      "name" : "Captured log call",
+      "source" : "6235ed0f87735d02.txt",
+      "type" : "text/plain",
+      "size" : 2139
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "iPhone32"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login[ itheima01 -123456-itheima01-True]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b67a7886dc779c2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,16 @@
+address_add:
+  recipient: "李白"
+  mobile: "13012345678"
+  addr: "北七家镇云集TBD中心"
+  postcode: "123456"
+  pro: "福建"
+  city: "厦门"
+  area: "思明"
+address_update:
+  recipient: "杜甫"
+  mobile: "13645678944"
+  addr: "黄河口88号"
+  postcode: "100000"
+  pro: "江苏"
+  city: "无锡"
+  area: "崇安"

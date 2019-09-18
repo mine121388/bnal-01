@@ -1,0 +1,106 @@
+{
+  "uid" : "3ffda2aba67dba83",
+  "name" : "TestLogin.test_login[ 13478603122 -123456-itheima0-True]",
+  "fullName" : "test_login.TestLogin.test_login[ 13478603122 -123456-itheima0-True]",
+  "historyId" : "e7130fe336fc59e1944449c94dfcbbf1",
+  "time" : {
+    "start" : 1568537206877,
+    "stop" : 1568537243958,
+    "duration" : 37081
+  },
+  "description" : "登录测试方法",
+  "descriptionHtml" : "<p>登录测试方法</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'itheima01' == 'itheima0'\n  - itheima01\n  ?         -\n  + itheima0",
+  "statusTrace" : "self = <test_login.TestLogin object at 0x000001E45C968D68>, username = ' 13478603122 ', pwd = '123456', expect = 'itheima0'\nsucceed = True\n\n    @allure.step(title=\"登录测试方法\")\n    @pytest.mark.parametrize(\"username,pwd, expect, succeed\", data_build())\n    # @pytest.mark.parametrize(\"username,pwd,expect, succeed\", [(13478603121, 123456, \"此用户不存在\", False)])\n    def test_login(self, username, pwd, expect, succeed):\n        \"\"\"登录测试方法\"\"\"\n        self.login.page_login(username, pwd)\n        # 判断是否是正向\n        if succeed:\n            try:\n                msg = self.login.get_msg()\n                print(\"获取的昵称为: \", msg)\n>               assert msg == expect\nE               AssertionError: assert 'itheima01' == 'itheima0'\nE                 - itheima01\nE                 ?         -\nE                 + itheima0\n\ncases\\test_login.py:42: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 'itheima01' == 'itheima0'\n  - itheima01\n  ?         -\n  + itheima0",
+    "statusTrace" : "self = <test_login.TestLogin object at 0x000001E45C968D68>, username = ' 13478603122 ', pwd = '123456', expect = 'itheima0'\nsucceed = True\n\n    @allure.step(title=\"登录测试方法\")\n    @pytest.mark.parametrize(\"username,pwd, expect, succeed\", data_build())\n    # @pytest.mark.parametrize(\"username,pwd,expect, succeed\", [(13478603121, 123456, \"此用户不存在\", False)])\n    def test_login(self, username, pwd, expect, succeed):\n        \"\"\"登录测试方法\"\"\"\n        self.login.page_login(username, pwd)\n        # 判断是否是正向\n        if succeed:\n            try:\n                msg = self.login.get_msg()\n                print(\"获取的昵称为: \", msg)\n>               assert msg == expect\nE               AssertionError: assert 'itheima01' == 'itheima0'\nE                 - itheima01\nE                 ?         -\nE                 + itheima0\n\ncases\\test_login.py:42: AssertionError",
+    "steps" : [ {
+      "name" : "登录测试方法",
+      "time" : {
+        "start" : 1568537206880,
+        "stop" : 1568537243686,
+        "duration" : 36806
+      },
+      "status" : "failed",
+      "statusMessage" : "self = <test_login.TestLogin object at 0x000001E45C968D68>, username = ' 13478603122 ', pwd = '123456', expect = 'itheima0'\nsucceed = True\n\n    @allure.step(title=\"登录测试方法\")\n    @pytest.mark.parametrize(\"username,pwd, expect, succeed\", data_build())\n    # @pytest.mark.parametrize(\"username,pwd,expect, succeed\", [(13478603121, 123456, \"此用户不存在\", False)])\n    def test_login(self, username, pwd, expect, succeed):\n        \"\"\"登录测试方法\"\"\"\n        self.login.page_login(username, pwd)\n        # 判断是否是正向\n        if succeed:\n            try:\n                msg = self.login.get_msg()\n                print(\"获取的昵称为: \", msg)\n>               assert msg == expect\nE               AssertionError: assert 'itheima01' == 'itheima0'\nE                 - itheima01\nE                 ?         -\nE                 + itheima0\n\ncases\\test_login.py:42: AssertionError",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7668b851ae6cee9d",
+        "name" : "失败原因: ",
+        "source" : "7668b851ae6cee9d.png",
+        "type" : "image/png",
+        "size" : 1295853
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "fcc5eb44c065048",
+      "name" : "Captured log call",
+      "source" : "fcc5eb44c065048.txt",
+      "type" : "text/plain",
+      "size" : 2257
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "iPhone32"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login[ 13478603122 -123456-itheima0-True]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3ffda2aba67dba83.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,17 @@
+page_login.py               60 INFO     【登录业务】输入的用户名: itheima01 输入的密码: 123456
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+base_login.py               25 INFO     清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+base_login.py               27 INFO     ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入itheima01
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+base_login.py               25 INFO     清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+base_login.py               27 INFO     ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+base_login.py               36 INFO     获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1

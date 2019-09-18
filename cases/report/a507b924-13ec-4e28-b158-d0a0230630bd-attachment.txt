@@ -1,0 +1,20 @@
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 持续时间: 30 查找频率: 0.2
+base_login.py               25 INFO     查找元素: ('xpath', "//*[contains(@text,'修改')]") 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/address_receipt_name') 持续时间: 30 查找频率: 0.2
+base_login.py               32 INFO     清除('id', 'com.yunmall.lc:id/address_receipt_name')元素方法
+base_login.py               34 INFO     ('id', 'com.yunmall.lc:id/address_receipt_name')元素输入杜甫
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/address_add_phone') 持续时间: 30 查找频率: 0.2
+base_login.py               32 INFO     清除('id', 'com.yunmall.lc:id/address_add_phone')元素方法
+base_login.py               34 INFO     ('id', 'com.yunmall.lc:id/address_add_phone')元素输入13645678944
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/address_province') 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('xpath', "//*[contains(@text,'江苏')]") 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('xpath', "//*[contains(@text,'无锡')]") 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('xpath', "//*[contains(@text,'崇安')]") 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/address_detail_addr_info') 持续时间: 30 查找频率: 0.2
+base_login.py               32 INFO     清除('id', 'com.yunmall.lc:id/address_detail_addr_info')元素方法
+base_login.py               34 INFO     ('id', 'com.yunmall.lc:id/address_detail_addr_info')元素输入黄河口88号
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/address_post_code') 持续时间: 30 查找频率: 0.2
+base_login.py               32 INFO     清除('id', 'com.yunmall.lc:id/address_post_code')元素方法
+base_login.py               34 INFO     ('id', 'com.yunmall.lc:id/address_post_code')元素输入100000
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/button_send') 持续时间: 30 查找频率: 0.2
+base_login.py               25 INFO     查找元素: ('id', 'com.yunmall.lc:id/receipt_name') 持续时间: 30 查找频率: 0.2

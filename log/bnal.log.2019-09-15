@@ -1,0 +1,275 @@
+2019-09-15 16:35:20,644 INFO [root] [base_login.py (__init__:15] - 初始化driver对象: <appium.webdriver.webdriver.WebDriver (session="d68e85c5-bbcc-4ff1-b9d9-94372ec693db")>
+2019-09-15 16:35:20,644 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/img_close') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:21,704 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:24,368 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:26,501 INFO [root] [page_login.py (page_login:60] - 输入的用户名: 13478603122 输入的密码: 123456
+2019-09-15 16:35:26,509 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:27,103 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:35:28,170 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603122
+2019-09-15 16:35:28,805 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:29,345 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:35:31,659 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:35:32,241 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:32,792 INFO [root] [base_login.py (get_text:36] - 获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+2019-09-15 16:35:32,793 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:34,620 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:34,698 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:36,113 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:49,671 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:50,249 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:51,238 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:52,714 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:54,080 INFO [root] [page_login.py (page_login:60] - 输入的用户名:  13478603122  输入的密码: 123456
+2019-09-15 16:35:54,081 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:54,310 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:35:55,588 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入 13478603122 
+2019-09-15 16:35:56,273 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:35:56,805 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:35:59,404 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:36:00,072 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:00,652 INFO [root] [base_login.py (get_text:36] - 获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+2019-09-15 16:36:00,652 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:02,159 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:02,233 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:03,442 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:16,973 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:17,627 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:18,562 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:19,804 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:21,166 INFO [root] [page_login.py (page_login:60] - 输入的用户名: itheima01 输入的密码: 123456
+2019-09-15 16:36:21,166 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:21,705 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:36:22,587 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入itheima01
+2019-09-15 16:36:23,272 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:23,801 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:36:26,562 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:36:27,185 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:27,745 INFO [root] [base_login.py (get_text:36] - 获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+2019-09-15 16:36:27,745 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:29,304 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:29,377 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:30,590 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:44,112 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:44,809 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:45,695 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:46,909 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:48,196 INFO [root] [page_login.py (page_login:60] - 输入的用户名:  itheima01  输入的密码: 123456
+2019-09-15 16:36:48,196 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:48,722 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:36:49,622 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入 itheima01 
+2019-09-15 16:36:50,300 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:50,844 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:36:53,375 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:36:54,042 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:54,641 INFO [root] [base_login.py (get_text:36] - 获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+2019-09-15 16:36:54,641 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:56,150 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:56,220 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:36:57,402 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:11,644 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:11,806 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:12,719 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:13,933 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:15,308 INFO [root] [page_login.py (page_login:60] - 输入的用户名: 13478603121 输入的密码: 123456
+2019-09-15 16:37:15,309 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:15,881 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:37:16,858 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603121
+2019-09-15 16:37:17,523 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:18,075 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:37:20,630 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:37:21,239 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:21,826 INFO [root] [base_login.py (get_toast_msg:41] - 获取此用户不存在昵称: 
+2019-09-15 16:37:21,826 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'此用户不存在')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:37:22,903 INFO [root] [page_login.py (page_login:60] - 输入的用户名: 134786031221 输入的密码: 123456
+2019-09-15 16:37:22,903 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:22,933 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:37:24,129 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入134786031221
+2019-09-15 16:37:24,929 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:25,462 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:37:28,263 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:37:28,849 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:29,436 INFO [root] [base_login.py (get_toast_msg:41] - 获取此用户不存在昵称: 
+2019-09-15 16:37:29,437 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'此用户不存在')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:37:30,230 INFO [root] [page_login.py (page_login:60] - 输入的用户名: 13478603122 输入的密码: 1234567
+2019-09-15 16:37:30,230 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:30,255 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:37:31,975 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603122
+2019-09-15 16:37:32,803 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:33,364 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:37:36,102 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入1234567
+2019-09-15 16:37:36,720 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:37,280 INFO [root] [base_login.py (get_toast_msg:41] - 获取登录密码错误昵称: 
+2019-09-15 16:37:37,280 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'登录密码错误')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:37:38,124 INFO [root] [page_login.py (page_login:60] - 输入的用户名: itheima011 输入的密码: 123456
+2019-09-15 16:37:38,124 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:38,152 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:37:39,386 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入itheima011
+2019-09-15 16:37:40,222 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:40,747 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:37:43,654 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:37:44,255 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:44,808 INFO [root] [base_login.py (get_toast_msg:41] - 获取此用户不存在昵称: 
+2019-09-15 16:37:44,808 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'此用户不存在')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:37:45,627 INFO [root] [page_login.py (page_login:60] - 输入的用户名: itheima01 输入的密码: 1234567
+2019-09-15 16:37:45,627 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:45,652 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:37:46,953 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入itheima01
+2019-09-15 16:37:47,796 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:47,845 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:37:50,984 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入1234567
+2019-09-15 16:37:51,601 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:37:52,151 INFO [root] [base_login.py (get_toast_msg:41] - 获取登录密码错误昵称: 
+2019-09-15 16:37:52,151 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'登录密码错误')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:46:13,439 INFO [root] [base_login.py (__init__:15] - 初始化driver对象: <appium.webdriver.webdriver.WebDriver (session="0df298b4-e290-4502-a9a6-b165c7456a90")>
+2019-09-15 16:46:13,440 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/img_close') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:14,466 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:16,853 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:18,741 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名: 13478603122 输入的密码: 123456
+2019-09-15 16:46:18,741 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:19,348 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:46:20,419 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603122
+2019-09-15 16:46:21,028 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:21,543 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:46:24,079 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:46:24,697 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:25,268 INFO [root] [base_login.py (get_text:36] - 获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+2019-09-15 16:46:25,268 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:27,337 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:27,425 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:28,900 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:42,459 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:43,138 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:44,080 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:45,612 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:46,880 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名:  13478603122  输入的密码: 123456
+2019-09-15 16:46:46,880 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:47,066 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:46:48,470 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入 13478603122 
+2019-09-15 16:46:49,166 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:49,701 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:46:52,474 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:46:53,125 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:53,729 INFO [root] [base_login.py (get_text:36] - 获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+2019-09-15 16:46:53,730 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:46:55,442 INFO [root] [test_login.py (test_login:44] - assert 'itheima01' == 'itheima0'
+  - itheima01
+  ?         -
+  + itheima0
+2019-09-15 16:47:04,268 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:04,340 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:05,646 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:19,201 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:19,774 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:20,707 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:21,974 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:23,975 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名: itheima01 输入的密码: 123456
+2019-09-15 16:47:23,975 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:24,194 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:47:25,123 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入itheima01
+2019-09-15 16:47:25,814 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:26,326 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:47:28,999 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:47:29,636 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:30,212 INFO [root] [base_login.py (get_text:36] - 获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+2019-09-15 16:47:30,212 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:31,871 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:31,942 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:33,354 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:46,897 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:47,591 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:48,538 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:49,788 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:51,210 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名:  itheima01  输入的密码: 123456
+2019-09-15 16:47:51,210 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:51,788 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:47:52,669 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入 itheima01 
+2019-09-15 16:47:53,356 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:53,889 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:47:56,746 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:47:57,406 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:57,990 INFO [root] [base_login.py (get_text:36] - 获取('id', 'com.yunmall.lc:id/tv_user_nikename')昵称: 
+2019-09-15 16:47:57,991 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tv_user_nikename') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:59,600 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:47:59,668 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_modify_pwd') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:00,181 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_notification') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:14,501 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/setting_logout') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:15,101 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymdialog_right_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:16,050 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:17,859 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:19,203 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名: 13478603121 输入的密码: 123456
+2019-09-15 16:48:19,203 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:19,765 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:48:20,721 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603121
+2019-09-15 16:48:21,388 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:21,913 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:48:24,603 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:48:25,251 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:25,800 INFO [root] [base_login.py (get_toast_msg:41] - 获取此用户不存在昵称: 
+2019-09-15 16:48:25,800 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'此用户不存在')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:48:26,748 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名: 134786031221 输入的密码: 123456
+2019-09-15 16:48:26,748 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:26,784 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:48:28,186 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入134786031221
+2019-09-15 16:48:29,028 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:29,540 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:48:32,320 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:48:32,926 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:33,493 INFO [root] [base_login.py (get_toast_msg:41] - 获取此用户不存在昵称: 
+2019-09-15 16:48:33,493 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'此用户不存在')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:48:34,318 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名: 13478603122 输入的密码: 1234567
+2019-09-15 16:48:34,319 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:34,342 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:48:35,725 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603122
+2019-09-15 16:48:36,607 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:37,167 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:48:39,972 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入1234567
+2019-09-15 16:48:40,580 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:41,150 INFO [root] [base_login.py (get_toast_msg:41] - 获取登录密码错误昵称: 
+2019-09-15 16:48:41,150 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'登录密码错误')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:48:41,976 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名: itheima011 输入的密码: 123456
+2019-09-15 16:48:41,977 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:42,006 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:48:43,297 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入itheima011
+2019-09-15 16:48:44,130 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:44,665 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:48:47,608 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 16:48:48,200 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:48,762 INFO [root] [base_login.py (get_toast_msg:41] - 获取此用户不存在昵称: 
+2019-09-15 16:48:48,763 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'此用户不存在')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 16:48:49,546 INFO [root] [page_login.py (page_login:60] - 【登录业务】输入的用户名: itheima01 输入的密码: 1234567
+2019-09-15 16:48:49,546 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:49,580 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 16:48:50,883 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入itheima01
+2019-09-15 16:48:51,666 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:52,196 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 16:48:55,025 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入1234567
+2019-09-15 16:48:55,617 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 16:48:56,163 INFO [root] [base_login.py (get_toast_msg:41] - 获取登录密码错误昵称: 
+2019-09-15 16:48:56,164 INFO [root] [base_login.py (find_element:18] - 查找元素: ('xpath', "//*[contains(@text,'登录密码错误')]") 持续时间: 3 查找频率: 0.1
+2019-09-15 20:12:13,567 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/img_close') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:12:13,938 INFO [root] [page_login.py (page_login:61] - 【登录业务】输入的用户名: 13478603122 输入的密码: 123456
+2019-09-15 20:12:13,939 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:13:23,374 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/img_close') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:13:24,536 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:13:26,014 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:13:27,904 INFO [root] [page_login.py (page_login:61] - 【登录业务】输入的用户名: 13478603122 输入的密码: 123456
+2019-09-15 20:13:27,904 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:13:28,113 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 20:13:29,673 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603122
+2019-09-15 20:13:30,349 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:13:30,910 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 20:13:33,350 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 20:13:33,980 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:13:34,570 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:45:52,136 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/img_close') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:45:53,701 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:45:55,166 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:45:57,133 INFO [root] [page_login.py (page_login:61] - 【登录业务】输入的用户名: 13478603122 输入的密码: 123456
+2019-09-15 20:45:57,133 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:45:57,693 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+2019-09-15 20:45:58,811 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603122
+2019-09-15 20:45:59,403 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:45:59,952 INFO [root] [base_login.py (input_func:25] - 清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+2019-09-15 20:46:02,443 INFO [root] [base_login.py (input_func:27] - ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+2019-09-15 20:46:03,050 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.1
+2019-09-15 20:46:03,634 INFO [root] [base_login.py (find_element:18] - 查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.1

@@ -1,0 +1,13 @@
+base_login.py               15 INFO     初始化driver对象: <appium.webdriver.webdriver.WebDriver (session="3ddcf648-88b8-4433-8f4f-4b769d51324a")>
+base_login.py               15 INFO     初始化driver对象: <appium.webdriver.webdriver.WebDriver (session="3ddcf648-88b8-4433-8f4f-4b769d51324a")>
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/img_close') 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/logon_account_textview') 持续时间: 30 查找频率: 0.2
+base_login.py               32 INFO     清除('id', 'com.yunmall.lc:id/logon_account_textview')元素方法
+base_login.py               34 INFO     ('id', 'com.yunmall.lc:id/logon_account_textview')元素输入13478603122
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/logon_password_textview') 持续时间: 30 查找频率: 0.2
+base_login.py               32 INFO     清除('id', 'com.yunmall.lc:id/logon_password_textview')元素方法
+base_login.py               34 INFO     ('id', 'com.yunmall.lc:id/logon_password_textview')元素输入123456
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/logon_button') 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 持续时间: 30 查找频率: 0.2

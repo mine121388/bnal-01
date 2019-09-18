@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'itheima01' == 'itheima0'\n  - itheima01\n  ?         -\n  + itheima0",
+      "children" : [ {
+        "name" : "TestLogin.test_login[ 13478603122 -123456-itheima0-True]",
+        "uid" : "3ffda2aba67dba83",
+        "parentUid" : "bd78aeb01717de11f13590a155239bf8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1568537206877,
+          "stop" : 1568537243958,
+          "duration" : 37081
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bd78aeb01717de11f13590a155239bf8"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,97 @@
+{
+  "uid" : "93ef1b54d6cbd94f",
+  "name" : "TestLogin.test_login[13478603122-123456-itheima01-True]",
+  "fullName" : "test_login.TestLogin.test_login[13478603122-123456-itheima01-True]",
+  "historyId" : "4b4b77dbd92f3638f93921ebf3d9e356",
+  "time" : {
+    "start" : 1568537148620,
+    "stop" : 1568537206868,
+    "duration" : 58248
+  },
+  "description" : "登录测试方法",
+  "descriptionHtml" : "<p>登录测试方法</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录测试方法",
+      "time" : {
+        "start" : 1568537178741,
+        "stop" : 1568537206867,
+        "duration" : 28126
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "777646c8e90ea6a3",
+      "name" : "Captured log setup",
+      "source" : "777646c8e90ea6a3.txt",
+      "type" : "text/plain",
+      "size" : 528
+    }, {
+      "uid" : "9034614338d3de89",
+      "name" : "Captured log call",
+      "source" : "9034614338d3de89.txt",
+      "type" : "text/plain",
+      "size" : 2139
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "iPhone32"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login[13478603122-123456-itheima01-True]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93ef1b54d6cbd94f.json",
+  "parameterValues" : [ ]
+}

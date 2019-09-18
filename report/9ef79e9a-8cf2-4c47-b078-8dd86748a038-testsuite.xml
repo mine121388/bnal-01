@@ -1,0 +1,52 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1568779356749" stop="1568779429931">
+  <name>test_address</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1568779356749" status="passed" stop="1568779409352">
+      <description>新增地址测试方法</description>
+      <name>TestAddress.test01_address[\u674e\u767d-13012345678-\u5317\u4e03\u5bb6\u9547\u4e91\u96c6TBD\u4e2d\u5fc3-123456-\u798f\u5efa-\u53a6\u95e8-\u601d\u660e]</name>
+      <attachments>
+        <attachment source="f86bf376-42d4-4c98-a1f1-b65fe6ba4251-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="e85ab747-4a47-453b-a714-906e622be54e-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4492-MainThread"/>
+        <label name="host" value="iPhone32"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1568779409355" status="passed" stop="1568779426199">
+      <description>更新地址测试方法</description>
+      <name>TestAddress.test02_update_address[\u675c\u752b-13645678944-\u9ec4\u6cb3\u53e388\u53f7-100000-\u6c5f\u82cf-\u65e0\u9521-\u5d07\u5b89]</name>
+      <attachments>
+        <attachment source="9d94259f-59c4-40d9-a70e-283c231bfef3-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4492-MainThread"/>
+        <label name="host" value="iPhone32"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1568779426201" status="passed" stop="1568779429931">
+      <description>删除地址测试方法</description>
+      <name>TestAddress.test03_delete</name>
+      <attachments>
+        <attachment source="d064b210-5257-4122-a06c-0621aa7c5a23-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4492-MainThread"/>
+        <label name="host" value="iPhone32"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

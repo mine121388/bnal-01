@@ -1,0 +1,45 @@
+login001:
+  username: "13478603122"
+  pwd: "123456"
+  expect: "itheima01"
+  succeed: True
+login002:
+  username: " 13478603122 "
+  pwd: "123456"
+  expect: "itheima01"
+  succeed: True
+login003:
+  username: "itheima01"
+  pwd: "123456"
+  expect: "itheima01"
+  succeed: True
+login004:
+  username: " itheima01 "
+  pwd: "123456"
+  expect: "itheima01"
+  succeed: True
+login007:
+  username: "13478603121"
+  pwd: "123456"
+  expect: "此用户不存在"
+  succeed: False
+login008:
+  username: "134786031221"
+  pwd: "123456"
+  expect: "此用户不存在"
+  succeed: False
+login009:
+  username: "13478603122"
+  pwd: "1234567"
+  expect: "登录密码错误"
+  succeed: False
+login010:
+  username: "itheima011"
+  pwd: "123456"
+  expect: "此用户不存在"
+  succeed: False
+login011:
+  username: "itheima01"
+  pwd: "1234567"
+  expect: "登录密码错误"
+  succeed: False

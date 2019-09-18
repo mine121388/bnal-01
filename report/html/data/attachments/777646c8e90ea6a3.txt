@@ -1,0 +1,4 @@
+base_login.py               15 INFO     初始化driver对象: <appium.webdriver.webdriver.WebDriver (session="0df298b4-e290-4502-a9a6-b165c7456a90")>
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/img_close') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/tab_me') 持续时间: 30 查找频率: 0.1
+base_login.py               18 INFO     查找元素: ('id', 'com.yunmall.lc:id/textView1') 持续时间: 30 查找频率: 0.1

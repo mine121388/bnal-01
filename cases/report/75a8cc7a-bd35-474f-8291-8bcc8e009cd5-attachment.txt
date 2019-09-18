@@ -1,0 +1,5 @@
+base_login.py               25 INFO     查找元素: ('id', 'com.yunmall.lc:id/receipt_name') 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 持续时间: 30 查找频率: 0.2
+base_login.py               25 INFO     查找元素: ('xpath', "//*[contains(@text,'删除')]") 持续时间: 30 查找频率: 0.2
+base_login.py               19 INFO     查找元素: ('id', 'com.yunmall.lc:id/ymdialog_left_button') 持续时间: 30 查找频率: 0.2
+base_login.py               25 INFO     查找元素: ('id', 'com.yunmall.lc:id/receipt_name') 持续时间: 2 查找频率: 0.2

@@ -1,0 +1,91 @@
+{
+  "uid" : "8278a3c527ecc9bc",
+  "name" : "TestLogin.test_login[itheima011-123456-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728-False]",
+  "fullName" : "test_login.TestLogin.test_login[itheima011-123456-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728-False]",
+  "historyId" : "17781292c2a6951b06eb881f19da52ee",
+  "time" : {
+    "start" : 1568537321974,
+    "stop" : 1568537329540,
+    "duration" : 7566
+  },
+  "description" : "登录测试方法",
+  "descriptionHtml" : "<p>登录测试方法</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录测试方法",
+      "time" : {
+        "start" : 1568537321976,
+        "stop" : 1568537329539,
+        "duration" : 7563
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ab7c71bb098ee416",
+      "name" : "Captured log call",
+      "source" : "ab7c71bb098ee416.txt",
+      "type" : "text/plain",
+      "size" : 1181
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "iPhone32"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login[itheima011-123456-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728-False]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8278a3c527ecc9bc.json",
+  "parameterValues" : [ ]
+}
