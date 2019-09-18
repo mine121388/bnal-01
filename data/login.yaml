@@ -1,7 +1,7 @@
 login001:
   username: "13478603122"
   pwd: "123456"
-  expect: "itheima01"
+  expect: "itheima0"
   succeed: True
 login002:
   username: " 13478603122 "
